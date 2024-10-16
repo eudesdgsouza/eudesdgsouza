@@ -6,17 +6,18 @@
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h2 align="left">Sobre:</h2>
 
 ###
 
 <p align="left">
-Sou um Desenvolvedor Front-end com formação em Desenvolvimento de Sistemas e uma paixão por criar interfaces digitais que conectam usuários a experiências fluidas e eficientes. Com uma sólida base em HTML5, CSS3, JavaScript e TypeScript, aplico frameworks modernos como React.js e React Native para transformar ideias em soluções funcionais e escaláveis.<br><br>
+Sou um Desenvolvedor Front-end com formação em Desenvolvimento de Sistemas e uma paixão por criar interfaces digitais que conectam usuários a experiências fluidas e eficientes. 
+Com uma sólida base em HTML5, CSS3, JavaScript e TypeScript, aplico frameworks modernos como React.js e React Native para transformar ideias em soluções funcionais e escaláveis.<br><br>
 </p>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias:</h2>
 
 ###
 
@@ -48,7 +49,7 @@ Sou um Desenvolvedor Front-end com formação em Desenvolvimento de Sistemas e u
 
 ###
 
-<h2 align="left">Status</h2>
+<h2 align="left">Status:</h2>
 
 ###
 
@@ -60,11 +61,12 @@ Sou um Desenvolvedor Front-end com formação em Desenvolvimento de Sistemas e u
 
 ###
 
-<h3 align="left">Obrigado pela visita! <br>Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida, proposta de colaboração ou  oportunidades profissionais.</h3>
+<h3 align="left">Obrigado pela visita!</h3>
+<h4 align="left">Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida, proposta de colaboração ou  oportunidades profissionais.</h4>
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="left">Contato:</h2>
 
 ###
 
