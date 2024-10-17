@@ -11,8 +11,7 @@
 ###
 
 <p align="left">
-Sou um Desenvolvedor Front-end com formação em Desenvolvimento de Sistemas e uma paixão por criar interfaces digitais que conectam usuários a experiências fluidas e eficientes. 
-Com uma sólida base em HTML5, CSS3, JavaScript e TypeScript, aplico frameworks modernos como React.js e React Native para transformar ideias em soluções funcionais e escaláveis.<br><br>
+Sou um Desenvolvedor Front-end com formação em Desenvolvimento de Sistemas e uma paixão por criar interfaces digitais que conectam usuários a experiências fluidas e eficientes. Com uma sólida base em HTML5, CSS3, JavaScript e TypeScript, aplico frameworks modernos como React.js e React Native para transformar ideias em soluções funcionais e escaláveis. Também possuo conhecimentos em Node.js, Express, PostgreSQL, MongoDB, Docker, Git, Cypress e Jest.<br><br>
 </p>
 
 ###
