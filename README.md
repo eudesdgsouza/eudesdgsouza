@@ -1,3 +1,5 @@
+# Olá, sou Eudes Gomes 👋
+
 # 💫 About me:
 Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, sempre com foco na experiência do usuário. Ao longo da minha jornada, trabalhei em projetos variados, desenvolvendo soluções dinâmicas e responsivas. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e aprender novas ferramentas.<br><br>Seja bem-vindo ao meu GitHub, onde compartilho meus projetos e exploro as últimas tendências do desenvolvimento web.
 
