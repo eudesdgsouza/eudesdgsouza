@@ -4,18 +4,6 @@
 Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, sempre com foco na experiência do usuário. Ao longo da minha jornada, trabalhei em projetos variados, desenvolvendo soluções dinâmicas e responsivas. Sou apaixonado por tecnologia e estou sempre em busca de aprimorar minhas habilidades e aprender novas ferramentas.<br><br>Seja bem-vindo ao meu GitHub, onde compartilho meus projetos e exploro as últimas tendências do desenvolvimento web.
 
 
-## Contato:
-<div align="left">
-  <a href="https://www.linkedin.com/in/eudesdgsouza" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:dev.eudesdgs@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5587999538885" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
 
 
 # 💻 Tecnologias:
@@ -31,3 +19,17 @@ Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eudesdgsouza&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## Contato:
+<div align="left">
+  <a href="https://www.linkedin.com/in/eudesdgsouza" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:dev.eudesdgs@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5587999538885" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
