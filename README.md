@@ -14,6 +14,9 @@ Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, 
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 #
+---
+[![](https://visitcount.itsvg.in/api?id=eudesdgsouza&icon=0&color=0)](https://visitcount.itsvg.in)
+#
 ## Contato:
 <div align="left">
   <a href="https://www.linkedin.com/in/eudesdgsouza" target="_blank">
@@ -26,6 +29,5 @@ Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-#
----
-[![](https://visitcount.itsvg.in/api?id=eudesdgsouza&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
