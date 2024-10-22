@@ -11,12 +11,6 @@ Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eudesdgsouza&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eudesdgsouza&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-#
----
-[![](https://visitcount.itsvg.in/api?id=eudesdgsouza&icon=0&color=0)](https://visitcount.itsvg.in)
-#
 ## Contato:
 <div align="left">
   <a href="https://www.linkedin.com/in/eudesdgsouza" target="_blank">
