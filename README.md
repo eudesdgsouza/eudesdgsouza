@@ -11,7 +11,7 @@ Desenvolvedor Front-end especialista em criar interfaces modernas e funcionais, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eudesdgsouza&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eudesdgsouza&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #
-## Contato:
+# Contato:
 <div align="left">
   <a href="https://www.linkedin.com/in/eudesdgsouza" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
