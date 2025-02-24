@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">Como Desenvolvedor Back-end, acredito que cada linha de código deve contar uma história de eficiência, inovação e impacto. Sou movido por desafios e inspirado pela ideia de transformar problemas complexos em soluções simples e elegantes. 
-<br />
-<br />
-Embora minha especialidade seja o back-end, também consigo atuar de forma integrada em projetos full-stack, promovendo a colaboração entre equipes para alcançar produtos coesos e de alta qualidade.
-</p>
+<p align="left">Como Desenvolvedor Back-end, acredito que cada linha de código deve contar uma história de eficiência, inovação e impacto. Sou movido por desafios e inspirado pela ideia de transformar problemas complexos em soluções simples e elegantes.</p>
 
 ###
 
@@ -56,6 +52,17 @@ Embora minha especialidade seja o back-end, também consigo atuar de forma integ
 
 ###
 
+<h2 align="left">Status:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eudesdgsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eudesdgsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h3 align="left">Obrigado pela visita!</h3>
 
 ###
@@ -64,17 +71,20 @@ Embora minha especialidade seja o back-end, também consigo atuar de forma integ
 
 ###
 
-# ☎️ Contato:
+<h2 align="left">Contato:</h2>
+
+###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/eudesdgsouza" target="_blank">
+  <a href="https://www.linkedin.com/in/eudesgomess/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:developer.eudes@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5587999538885" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5587999538885&text=Ol%C3%A1%20Eudes,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="developer.eudes@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-
+###
