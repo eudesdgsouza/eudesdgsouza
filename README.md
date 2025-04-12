@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Como Desenvolvedor Back-end, acredito que cada linha de código deve contar uma história de eficiência, inovação e impacto. Sou movido por desafios e inspirado pela ideia de transformar problemas complexos em soluções simples e elegantes.</p>
+<p align="left">Como Desenvolvedor Full Stack, acredito que cada linha de código deve contar uma história de eficiência, inovação e impacto. Sou movido por desafios e inspirado pela ideia de transformar problemas complexos em soluções simples e elegantes.</p>
 
 ###
 
